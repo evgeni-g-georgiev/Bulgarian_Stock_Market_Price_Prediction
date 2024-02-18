@@ -2,20 +2,20 @@
 
 ## I utilise deep learning models to build a long/short strategy that outperforms simply "going long" the SOFIX Index
 
-<span style="color:red">
+🚨🚨🚨
+**Important Disclaimer: This project was embarked upon as a personal exploration and for enjoyment, with the primary goals of deepening my understanding of neural networks and advancing my machine learning capabilities through practical application. It represents an exercise in applying theoretical knowledge rather than a definitive guide or strategy for outperforming any financial index, such as the SOFIX index.**
 
-Disclaimer: This project was embarked upon as a personal exploration and for enjoyment, with the primary goals of deepening my understanding of neural networks and advancing my machine learning capabilities through practical application. It represents an exercise in applying theoretical knowledge rather than a definitive guide or strategy for outperforming any financial index, such as the SOFIX index.
+**The insights and outcomes presented are part of my learning journey and should not be interpreted as professional investment advice or as a reliable method for generating market alpha. While every effort has been made to ensure the accuracy and completeness of the project, it's important to acknowledge the potential for oversight or error. This endeavor is shared in the spirit of learning and should be viewed as such by its audience.** 
+🚨🚨🚨
 
-The insights and outcomes presented are part of my learning journey and should not be interpreted as professional investment advice or as a reliable method for generating market alpha. While every effort has been made to ensure the accuracy and completeness of the project, it's important to acknowledge the potential for oversight or error. This endeavor is shared in the spirit of learning and should be viewed as such by its audience.
-
-</span>
+**Deep Learning Long/Short Strategy Performance:**
 
 ![Deep Learning Long/Short Strategy Performance](https://raw.githubusercontent.com/evgeni-g-georgiev/Bulgarian_Stock_Market_Price_Prediction/master/DeepLearningStrategyPerformance.png)
 
 
 ## How do I run the code myself?
 
-🚨 **Unfortunately, the code will not be fully executable for most users.**
+Unfortunately, the code will not be fully executable for most users.
 
 This is because some of the data used is only available through purchase directly from the Bulgarian Stock Exchange, as per my usage agreement with the BSE, I am not permitted to distribute the data in its original format.
 
@@ -34,4 +34,4 @@ A quick rundown of the different files and folders:
 
 So, what I have built is a methodology that produces several deep learning models all of which produce outputs that can be leveraged to build an investment strategy that can outperform going simply long the SOFIX Index.
 
-I think that is pretty cool :)
+I think that is pretty cool 😊
