@@ -6,7 +6,7 @@
 
 - The insights and outcomes presented are part of my learning journey and should not be interpreted as professional investment advice or as a reliable method for generating market alpha. While every effort has been made to ensure the accuracy and completeness of the project, it's important to acknowledge the potential for oversight or error. This endeavor is shared in the spirit of learning and should be viewed as such by its audience.
 
-![Deep Learning Model Long/Short strategy performance vs being long only]([https://github.com/evgeni-g-georgiev/FPLproject/blob/main/images/Top%2010%20Alpha%20Metric.png?raw=true](https://github.com/evgeni-g-georgiev/Bulgarian_Stock_Market_Price_Prediction/blob/main/DeepLearningStrategyPerformance.png?raw=true))
+![Deep Learning Model Long/Short strategy performance vs being long only](https://github.com/evgeni-g-georgiev/FPLproject/blob/main/images/Top%2010%20Alpha%20Metric.png?raw=true](https://github.com/evgeni-g-georgiev/Bulgarian_Stock_Market_Price_Prediction/blob/main/DeepLearningStrategyPerformance.png?raw=true)
 
 ## How do I run the code myself?
 
