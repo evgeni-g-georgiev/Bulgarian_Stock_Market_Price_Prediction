@@ -2,11 +2,16 @@
 
 ## I utilise deep learning models to build a long/short strategy that outperforms simply "going long" the SOFIX Index
 
-- Disclaimer: This project was embarked upon as a personal exploration and for enjoyment, with the primary goals of deepening my understanding of neural networks and advancing my machine learning capabilities through practical application. It represents an exercise in applying theoretical knowledge rather than a definitive guide or strategy for outperforming any financial index, such as the SOFIX index.
+<span style="color:red">
 
-- The insights and outcomes presented are part of my learning journey and should not be interpreted as professional investment advice or as a reliable method for generating market alpha. While every effort has been made to ensure the accuracy and completeness of the project, it's important to acknowledge the potential for oversight or error. This endeavor is shared in the spirit of learning and should be viewed as such by its audience.
+Disclaimer: This project was embarked upon as a personal exploration and for enjoyment, with the primary goals of deepening my understanding of neural networks and advancing my machine learning capabilities through practical application. It represents an exercise in applying theoretical knowledge rather than a definitive guide or strategy for outperforming any financial index, such as the SOFIX index.
 
-![Deep Learning Model Long/Short strategy performance vs being long only](https://github.com/evgeni-g-georgiev/FPLproject/blob/main/images/Top%2010%20Alpha%20Metric.png?raw=true](https://github.com/evgeni-g-georgiev/Bulgarian_Stock_Market_Price_Prediction/blob/main/DeepLearningStrategyPerformance.png?raw=true](https://github.com/evgeni-g-georgiev/Bulgarian_Stock_Market_Price_Prediction/blob/main/DeepLearningStrategyPerformance.png?raw=true)))
+The insights and outcomes presented are part of my learning journey and should not be interpreted as professional investment advice or as a reliable method for generating market alpha. While every effort has been made to ensure the accuracy and completeness of the project, it's important to acknowledge the potential for oversight or error. This endeavor is shared in the spirit of learning and should be viewed as such by its audience.
+
+</span>
+
+![Deep Learning Long/Short Strategy Performance](https://raw.githubusercontent.com/evgeni-g-georgiev/Bulgarian_Stock_Market_Price_Prediction/master/DeepLearningStrategyPerformance.png)
+
 
 ## How do I run the code myself?
 
