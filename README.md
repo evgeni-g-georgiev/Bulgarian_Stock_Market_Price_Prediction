@@ -13,6 +13,30 @@
 
 ![Deep Learning Long/Short Strategy Performance](https://raw.githubusercontent.com/evgeni-g-georgiev/Bulgarian_Stock_Market_Price_Prediction/master/DeepLearningStrategyPerformance.png)
 
+## Brief Project Overview
+
+As mentioned earlier, this project utilizes deep learning models to predict the price movement of the Bulgarian Stock Exchanges SOFIX Index and to build a long/short strategy that will aim to outperform going simply long the SOFIX Index.
+
+## Data Collection and Preparation
+
+The project includes three main datasets:
+
+**Intraday Data:** Captures minute-by-minute price data from the SOFIX Index between Jan 3, 2023, and Feb 2, 2024.
+**Up/Down Data:** Indicates whether the index opens higher or lower compared to the previous day's closing level, from Jan 4, 2023, to Feb 5, 2024.
+**Closing Levels:** Contains the closing levels of the SOFIX Index for each date.
+The mapping of intraday data to up/down data is crucial for training the model to predict the index's opening direction for the next day, considering market behaviors from the previous day.
+
+### Model Building and Selection
+
+The deep learning model is built from scratch, incorporating LeakyReLU activation functions and a segmented layer configuration to enhance performance. Multiple architectures are tested, with key parameters such as layer configuration and learning rates optimized.
+
+Models are evaluated based on accuracy and loss metrics, with a focus on cross-validation performance. The top-performing models are selected for further analysis, considering both accuracy and loss values.
+
+### Evaluation and Strategy Development
+
+The performance of selected models is evaluated using a simple investment strategy. The strategy involves buying or selling the index based on the model's predictions of whether the index will open higher or lower.
+
+The effectiveness of the strategy is compared to traditional long-only investment approaches. Despite potential fluctuations in accuracy, the strategy aims to capitalize on significant price movements, potentially outperforming conventional investment methods.
 
 ## How do I run the code myself?
 
